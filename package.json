@@ -1,0 +1,27 @@
+{
+  "name": "cra-ts-template-sh4nnongoh",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "The base template for an opiniated version of Create React App for Typescript by sh4nnongoh.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sh4nnongoh/cra-ts-template-bare-sh4nnongoh.git",
+    "directory": "."
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "bugs": {
+    "url": "https://github.com/sh4nnongoh/cra-ts-template-bare-sh4nnongoh/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
