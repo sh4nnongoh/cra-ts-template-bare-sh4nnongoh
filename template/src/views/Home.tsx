@@ -7,7 +7,7 @@ const Home: FC = (): ReactElement => (
     <p>
       Edit
       {" "}
-      <code>src/Home.tsx</code>
+      <code>src/views/Home.tsx</code>
       {" "}
       and save to reload.
     </p>
